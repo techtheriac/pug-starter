@@ -1,1 +1,1 @@
-# Simple Started Template parceled with Parcel 
+# Simple Starter Template parceled with Parcel 
